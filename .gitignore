@@ -1,0 +1,16 @@
+# Private / large photographic datasets and reconstruction output
+/data/
+/runs/
+/results/
+
+# Local Python environment
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+*.log
