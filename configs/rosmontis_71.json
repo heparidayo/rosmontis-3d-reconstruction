@@ -1,0 +1,123 @@
+{
+  "expected_images": 71,
+  "raw_size": [
+    7008,
+    4672
+  ],
+  "crop_box": [
+    2102,
+    1401,
+    4906,
+    3271
+  ],
+  "camera_model": "SIMPLE_RADIAL",
+  "camera_params": [
+    13625.600752573875,
+    1402,
+    935,
+    0
+  ],
+  "groups": {
+    "0~10°": [
+      "DSC03267.JPG",
+      "DSC03272.JPG",
+      "DSC03276.JPG",
+      "DSC03282.JPG",
+      "DSC03283.JPG",
+      "DSC03287.JPG",
+      "DSC03294.JPG",
+      "DSC03300.JPG",
+      "DSC03302.JPG",
+      "DSC03308.JPG",
+      "DSC03312.JPG",
+      "DSC03314.JPG",
+      "DSC03316.JPG",
+      "DSC03318.JPG",
+      "DSC03320.JPG",
+      "DSC03325.JPG",
+      "DSC03329.JPG",
+      "DSC03346.JPG",
+      "DSC03353.JPG",
+      "DSC03361.JPG",
+      "DSC03368.JPG",
+      "DSC03380.JPG",
+      "DSC03385.JPG",
+      "DSC03394.JPG"
+    ],
+    "약 25°": [
+      "DSC03406.JPG",
+      "DSC03410.JPG",
+      "DSC03414.JPG",
+      "DSC03434.JPG",
+      "DSC03439.JPG",
+      "DSC03446.JPG",
+      "DSC03458.JPG",
+      "DSC03460.JPG",
+      "DSC03473.JPG",
+      "DSC03479.JPG",
+      "DSC03484.JPG",
+      "DSC03494.JPG",
+      "DSC03502.JPG",
+      "DSC03508.JPG",
+      "DSC03513.JPG",
+      "DSC03517.JPG",
+      "DSC03523.JPG",
+      "DSC03530.JPG",
+      "DSC03543.JPG",
+      "DSC03560.JPG",
+      "DSC03570.JPG",
+      "DSC03582.JPG",
+      "DSC03601.JPG"
+    ],
+    "약 55°": [
+      "DSC03627.JPG",
+      "DSC03633.JPG",
+      "DSC03642.JPG",
+      "DSC03658.JPG",
+      "DSC03673.JPG",
+      "DSC03685.JPG",
+      "DSC03696.JPG",
+      "DSC03699.JPG",
+      "DSC03704.JPG",
+      "DSC03714.JPG",
+      "DSC03721.JPG",
+      "DSC03733.JPG",
+      "DSC03738.JPG",
+      "DSC03749.JPG",
+      "DSC03756.JPG",
+      "DSC03768.JPG",
+      "DSC03779.JPG",
+      "DSC03783.JPG",
+      "DSC03800.JPG",
+      "DSC03817.JPG",
+      "DSC03827.JPG",
+      "DSC03845.JPG",
+      "DSC03852.JPG",
+      "DSC03860.JPG"
+    ]
+  },
+  "sift": {
+    "max_image_size": 4000,
+    "max_num_features": 8192,
+    "peak_threshold": 0.003,
+    "edge_threshold": 10
+  },
+  "dense": {
+    "max_image_size": 2000,
+    "source_images": 10,
+    "window_radius": 7,
+    "iterations": 3,
+    "min_consistent_views": 2,
+    "fusion_min_pixels": 3,
+    "poisson_depth": 8,
+    "poisson_trim": 5
+  },
+  "render": {
+    "pitch_degrees": 25,
+    "zoom": 0.85,
+    "point_size": 0.5,
+    "frames": 24,
+    "frame_ms": 320,
+    "target_faces": 8000
+  }
+}

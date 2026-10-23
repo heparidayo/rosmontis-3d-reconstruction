@@ -5,6 +5,7 @@
 
 # Local Python environment
 .venv/
+/requirements.local.txt
 __pycache__/
 *.py[cod]
 .pytest_cache/
